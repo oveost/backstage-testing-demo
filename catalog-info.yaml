@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstage-testing-demo
   annotations:
-    github.com/project-slug: oveost/backstage-testing-demo
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
